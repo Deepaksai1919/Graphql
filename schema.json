@@ -1,0 +1,10 @@
+[
+  {
+    "table": "Company",
+    "fields": {
+      "id": "str",
+      "name": "str",
+      "description": "str"
+    }
+  }
+]
